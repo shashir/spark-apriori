@@ -1,0 +1,22 @@
+# Temporary files used by editors.
+*~
+*.swp
+.#*
+\#*
+
+# Project files from IDEs.
+.classpath
+.project
+.jde/
+.idea/
+*.iml
+
+# Build and run artifacts.
+target/
+build/
+logs/
+pids/
+out/
+
+# Other
+.cache
